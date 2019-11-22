@@ -1,6 +1,6 @@
 index.html
 py-redis-stream.code-workspace
-./bin
-./include
-./lib
-./Python
+bin/
+include/
+lib/
+.Python
